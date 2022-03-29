@@ -37,10 +37,16 @@ dependencies:
   flutter_svg: ^1.0.3
   flutter_screenutil: ^5.3.1
   auto_route: ^3.2.4
+  freezed_annotation: ^1.1.0
+  flutter_bloc: ^8.0.1
+  import_sorter: ^4.6.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  auto_route_generator: ^3.2.3
+  build_runner: ^2.1.7
+  freezed: ^1.1.1
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

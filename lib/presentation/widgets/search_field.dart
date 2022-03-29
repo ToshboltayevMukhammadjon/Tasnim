@@ -15,7 +15,12 @@ class SearchField extends StatelessWidget {
         color: Colors.white,
         boxShadow: const [
           BoxShadow(
-              color: Color.fromRGBO(0, 0, 0, 0.05000000074505806),
+              color: Color.fromRGBO(
+                0,
+                0,
+                0,
+                0.05000000074505806,
+              ),
               offset: Offset(0, 10),
               blurRadius: 30)
         ],

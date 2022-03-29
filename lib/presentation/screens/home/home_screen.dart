@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:tasnim/presentation/screens/home/widgets/app_bar/widgets/drawer.dart';
-import 'package:tasnim/presentation/screens/home/widgets/app_bar/widgets/search_field.dart';
-import 'package:tasnim/presentation/screens/home/widgets/app_bar/widgets/user_image.dart';
+import 'package:tasnim/presentation/screens/home/widgets/drawer/drawer.dart';
+import 'package:tasnim/presentation/widgets/search_field.dart';
+import 'package:tasnim/presentation/widgets/user_image.dart';
 import 'package:tasnim/presentation/screens/home/widgets/content_text/content_text.dart';
 import 'package:tasnim/presentation/screens/home/widgets/content_video/content_video.dart';
 import 'package:tasnim/presentation/screens/home/widgets/content_voice/content_voice.dart';

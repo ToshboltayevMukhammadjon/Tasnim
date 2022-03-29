@@ -53,7 +53,9 @@ class ContentVideo extends StatelessWidget {
                   padding:
                       const EdgeInsets.only(left: 16, right: 16, bottom: 12),
                   color: Colors.white.withOpacity(0.9),
-                  child: const FeedBackField(),
+                  child: const Text(
+                    "Tushkunlikka tushmaslik uchun nima qilish kerak?",
+                  ),
                 ),
               ],
             ),
